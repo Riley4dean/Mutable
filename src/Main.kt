@@ -19,7 +19,7 @@ fun main() {
 
     )
     HealthyFood.add("Orange")
-    HealthyFood[2] = "Broccoli"
+    HealthyFood[1] = "Broccoli"
     HealthyFood.remove("Apple")
     HealthyFood.removeAt(3)
     println(HealthyFood)
